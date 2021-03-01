@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Activities</string>
+    <string name="nacimiento">Año de nacimiento</string>
+    <string name="nombre">Nombre completo</string>
+    <string name="telefono">Telefono</string>
+    <string name="email">Email</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="campo_nacimiento">Año de nacimiento</string>
+    <string name="campo_nombre">Nombre completo</string>
+    <string name="campo_telefono">Telefono</string>
+    <string name="campo_email">Email</string>
+    <string name="campo_descripcion">Descripcion</string>
+    <string name="boton_siguiente">Siguiente</string>
+    <string name="boton_volver">Editar</string>
+</resources>
